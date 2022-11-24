@@ -17,3 +17,4 @@ Internal HR and IT management dashboard built with React.
 - Tailwind CSS
 - Chart.js for analytics
 - React Router
+# Nov 24
