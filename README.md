@@ -18,3 +18,4 @@ Internal HR and IT management dashboard built with React.
 - Chart.js for analytics
 - React Router
 # Nov 24
+# Dec 20
